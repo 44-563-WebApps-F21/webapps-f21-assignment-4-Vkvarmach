@@ -1,20 +1,26 @@
-h1,h3,h4,h6,p{font-family: 'Times New Roman', Times, serif;}
+.speech{font-family: 'Times New Roman', Times, serif;font-size: 16px;color: black;}
 
-h1{font-size :24px;color:black;}
+.stage-direction{font-family: 'Times New Roman', Times, serif;font-size: 16px;color: black;}
+
+.name{font-size :16px;color:black;}
+
+.stage-direction:hover{background-color: yellow;color: turquoise;}
 
 h3{font-size:22px;color:black;text-align: center;}
 
-h4 { font-size:16px;color:green; }
+h4 { font-size:16px;color: green; }
 
-p {font-size:14px;
+.speech{font-size:14px;
     color:black}
-
-    #special_1,#special_2{background: lightblue;}
  
-    h6{font-size:16px;color:blue;}
+    .ladyhunstanton{font-size:16px;color:blue;}
+
+    .gerald{font-size:16px;color:coral;}
+
+    .allonby{font-size:16px;color:yellowgreen;}
 
     table{ width: 400px;}
-    
+  
     th{text-align: left;font-size: 20px;}
      
     table,th,td{border: 1px solid #000;
